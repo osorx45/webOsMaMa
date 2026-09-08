@@ -1,3 +1,10 @@
+apellidos: Hoyos , Ozuna , Ramirez
+
+apodos:
+Majo
+Mar
+Osorx 
+
 nombres:
 Maria Jose
 Mariana Mirele
